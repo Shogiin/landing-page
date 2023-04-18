@@ -1,0 +1,24 @@
+body {
+    margin: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #1f2937;
+}
+
+h1 {
+    font-size: 24px;
+    color: #f9faf8;
+}
+
+ul {
+    display: flex;
+    gap: 16px;
+    list-style-type: none;
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+.nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
