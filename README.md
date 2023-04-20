@@ -1,1 +1,1 @@
-# landing-page
+This is my first ever landing page for a website from The Odin Project
